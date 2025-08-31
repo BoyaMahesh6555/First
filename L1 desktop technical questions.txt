@@ -1,0 +1,42 @@
+1 What is the new build patch version of Windows 11?
+Answer: As of my last update, the latest build patch version of Windows 11 is 22H2 (Build 22000.556).
+2 How do you connect to a network printer?
+Answer: To connect to a network printer, you can follow these steps:
+Go to "Settings" > "Devices" > "Printers & scanners."
+Click on "Add a printer or scanner."
+Windows will automatically search for available printers on the network. If your printer is detected, select it and follow the prompts to install the drivers and complete the setup.
+3 What steps would you take to troubleshoot a computer that won't boot up?
+Answer: Several troubleshooting steps can be taken, such as:
+Check if there's power to the computer and peripherals.
+Ensure all cables are properly connected.
+Try booting into Safe Mode.
+Use recovery tools like System Restore or Startup Repair.
+4 How do you set up email on Outlook?
+Answer: To set up email on Outlook:
+Open Outlook and go to "File" > "Add Account."
+Enter your email address and follow the prompts to configure the account settings, including incoming and outgoing mail server information.
+5 What steps would you take to diagnose a network connectivity issue on a Windows PC?
+Answer: Some steps to diagnose network connectivity issues include:
+Checking if other devices can connect to the network.
+Verifying network cables and connections.
+Checking IP configuration settings.
+Using diagnostic tools like ping and ipconfig.
+6 How do you map a network drive in Windows?
+Answer: To map a network drive:
+Open File Explorer and click on "This PC."
+Click on "Computer" tab > "Map network drive."
+Choose a drive letter and enter the network folder's path, then click "Finish."
+7 What's the process for installing a new application on a Windows system?
+Answer: To install a new application:
+Download the installer from a trusted source.
+Double-click the installer file and follow the on-screen instructions to complete the installation.
+8 How do you troubleshoot a printer that's not printing?
+Answer: Some troubleshooting steps include:
+Checking printer connections and paper levels.
+Restarting the printer and computer.
+Updating or reinstalling printer drivers.
+Clearing print queue and restarting the print spooler service.
+9 How do you check if a computer has the latest Windows updates installed?
+Answer: You can check for Windows updates by going to "Settings" > "Update & Security" > "Windows Update."
+10 What does the "blue screen of death" indicate, and how would you address it?
+Answer: The blue screen of death (BSOD) indicates a critical system error. You can address it by noting down the error code displayed, searching for it online, and following troubleshooting steps such as using System Restore or repairing corrupted system files.
